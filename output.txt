@@ -1,0 +1,3 @@
+Name: Alice, ID: 101, Grades: [85, 90, 80], Average: 85.00
+Name: Bob, ID: 102, Grades: [70, 75, 65], Average: 70.00
+Name: Charlie, ID: 103, Grades: [88, 92, 85], Average: 88.33
